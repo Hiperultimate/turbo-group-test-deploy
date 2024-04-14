@@ -1,5 +1,3 @@
 {
-    "buildCommand": "npm run build-groupy",
-    "outputDirectory": "./apps/groupy/.next"
-
+    "buildCommand": "cd ../.. && cd packages/db_prisma && npm install && cd ../.. && npm run build-groupy"
 }
