@@ -1,4 +1,5 @@
 {
-    "installCommand": "npm install",
+    "installCommand": "npm install --filter=groupy & npm install --filter=@groupy/db_prisma",
     "buildCommand": "npm run build-groupy"
+
 }
