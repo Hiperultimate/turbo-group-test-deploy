@@ -1,5 +1,5 @@
 {
     "buildCommand": "npm run build-groupy",
-    "outputDirectory": ".next"
+    "outputDirectory": "./apps/groupy/.next"
 
 }
